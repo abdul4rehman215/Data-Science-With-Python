@@ -29,7 +29,12 @@
 ![NLP](https://img.shields.io/badge/NLP-Applied-8B5CF6?style=for-the-badge)
 ![Forecasting](https://img.shields.io/badge/Time%20Series-Forecasting-2563EB?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20RNNs-9333EA?style=for-the-badge)
-![Interview Ready](https://img.shields.io/badge/Portfolio-Interview%20Ready-F59E0B?style=for-the-badge)
+
+<!-- ===================== REPO METADATA ===================== -->
+![RepoSize](https://img.shields.io/github/repo-size/abdul4rehman215/Data-Science-With-Python?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/abdul4rehman215/Data-Science-With-Python?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/abdul4rehman215/Data-Science-With-Python?style=for-the-badge)
+![LastCommit](https://img.shields.io/github/last-commit/abdul4rehman215/Data-Science-With-Python?style=for-the-badge)
 
 </div>
 
