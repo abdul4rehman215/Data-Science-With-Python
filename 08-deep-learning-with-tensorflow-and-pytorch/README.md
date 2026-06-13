@@ -10,6 +10,8 @@ Deep learning labs spanning neural network basics, CNN-based image classificatio
 - Sequence modeling for anomaly detection
 - Regularization and transfer learning
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -21,6 +23,8 @@ Deep learning labs spanning neural network basics, CNN-based image classificatio
 - RNNs
 - LSTMs
 
+---
+
 ## 🗂️ Labs in This Section
 
 - **Lab 51:** Build Your First Neural Network
@@ -30,6 +34,8 @@ Deep learning labs spanning neural network basics, CNN-based image classificatio
 - **Lab 55:** Analyze Drone Footage with CNNs
 - **Lab 56:** Apply Dropout and Batch Normalization
 - **Lab 57:** Transfer Learning for Custom Image Classification
+
+---
 
 ## 📁 Section Structure
 
@@ -44,6 +50,16 @@ Deep learning labs spanning neural network basics, CNN-based image classificatio
 └── lab56-apply-dropout-and-batch-normalization/
 └── lab57-transfer-learning-for-custom-image-classification/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_deep-learning-ai-learning-portfolio-activity-7458070637228703745-xXYA?)
+
+---
 
 ## ✅ Section Outcome
 
