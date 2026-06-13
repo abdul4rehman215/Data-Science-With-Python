@@ -10,6 +10,8 @@ Classical machine learning labs using scikit-learn for supervised and unsupervis
 - Recommendation workflows
 - Model evaluation and comparison
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -18,6 +20,8 @@ Classical machine learning labs using scikit-learn for supervised and unsupervis
 - pandas
 - NumPy
 
+---
+
 ## 🗂️ Labs in This Section
 
 - **Lab 36:** Regression and Classification with scikit-learn
@@ -25,6 +29,8 @@ Classical machine learning labs using scikit-learn for supervised and unsupervis
 - **Lab 38:** Clustering and Dimensionality Reduction
 - **Lab 39:** Build a Retail Recommendation System
 - **Lab 40:** Evaluate and Compare ML Models
+
+---
 
 ## 📁 Section Structure
 
@@ -37,6 +43,17 @@ Classical machine learning labs using scikit-learn for supervised and unsupervis
 └── lab39-build-a-retail-recommendation-system/
 └── lab40-evaluate-and-compare-ml-models/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_machine-learning-foundations-ai-learning-activity-7454446755968094208-vCQI?)
+
+---
+
 
 ## ✅ Section Outcome
 
