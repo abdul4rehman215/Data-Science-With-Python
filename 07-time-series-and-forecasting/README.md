@@ -10,6 +10,8 @@ Time-series labs covering decomposition, smoothing, ARIMA-family models, Prophet
 - Prophet-based forecasting
 - Applied forecasting for logistics and finance
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -19,6 +21,8 @@ Time-series labs covering decomposition, smoothing, ARIMA-family models, Prophet
 - Prophet
 - Matplotlib
 
+---
+
 ## 🗂️ Labs in This Section
 
 - **Lab 46:** Time Series Decomposition and Trend Analysis
@@ -26,6 +30,8 @@ Time-series labs covering decomposition, smoothing, ARIMA-family models, Prophet
 - **Lab 48:** Forecasting with ARIMA and SARIMA
 - **Lab 49:** Business Forecasting with Prophet
 - **Lab 50:** Predictive Forecasting for Logistics and Finance
+
+---
 
 ## 📁 Section Structure
 
@@ -38,6 +44,17 @@ Time-series labs covering decomposition, smoothing, ARIMA-family models, Prophet
 └── lab49-business-forecasting-with-prophet/
 └── lab50-predictive-forecasting-for-logistics-and-finance/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_time-series-forecasting-ai-learning-portfolio-activity-7455171523562192898-ThHD?)
+
+---
+
 
 ## ✅ Section Outcome
 
