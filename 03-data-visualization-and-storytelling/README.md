@@ -10,6 +10,8 @@ Visualization-focused labs covering static and interactive charting, dashboards,
 - Geospatial storytelling
 - Notebook-based narrative communication
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -21,6 +23,8 @@ Visualization-focused labs covering static and interactive charting, dashboards,
 - Dash
 - Streamlit
 - Folium
+
+---
 
 ## 🗂️ Labs in This Section
 
@@ -34,6 +38,8 @@ Visualization-focused labs covering static and interactive charting, dashboards,
 - **Lab 28:** Rapid Dashboards with Streamlit
 - **Lab 29:** Interactive Crime Map with Folium & GeoJSON
 - **Lab 30:** Jupyter for Narrative Visualization
+
+---
 
 ## 📁 Section Structure
 
@@ -51,6 +57,16 @@ Visualization-focused labs covering static and interactive charting, dashboards,
 └── lab29-interactive-crime-map-with-folium-and-geojson/
 └── lab30-jupyter-for-narrative-visualization/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_data-visualization-ai-learning-portfolio-activity-7453359631260749824--RdD?)
+
+---
 
 ## ✅ Section Outcome
 
