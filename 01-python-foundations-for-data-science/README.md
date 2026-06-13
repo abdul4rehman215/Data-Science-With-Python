@@ -10,6 +10,8 @@ Core Python fundamentals for data-focused workflows, including syntax, control f
 - File handling and JSON processing
 - APIs, exceptions, and command-line parsing
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -19,6 +21,8 @@ Core Python fundamentals for data-focused workflows, including syntax, control f
 - JSON
 - Requests
 - Logging
+
+---
 
 ## 🗂️ Labs in This Section
 
@@ -32,6 +36,8 @@ Core Python fundamentals for data-focused workflows, including syntax, control f
 - **Lab 08:** Exception Handling and Logging
 - **Lab 09:** Automate Weather Data Retrieval with API
 - **Lab 10:** Build a Command-Line CSV Parser
+
+---
 
 ## 📁 Section Structure
 
@@ -49,6 +55,16 @@ Core Python fundamentals for data-focused workflows, including syntax, control f
 └── lab09-automate-weather-data-retrieval-with-api/
 └── lab10-build-a-command-line-csv-parser/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_python-foundations-data-science-with-python-activity-7452634817357062144--Qw0?)
+
+---
 
 ## ✅ Section Outcome
 
