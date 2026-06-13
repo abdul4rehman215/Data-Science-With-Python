@@ -10,6 +10,8 @@ Hands-on data wrangling with NumPy and pandas, focusing on cleaning, transformat
 - Data cleaning and outlier handling
 - Reusable data cleaning pipelines
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -17,6 +19,8 @@ Hands-on data wrangling with NumPy and pandas, focusing on cleaning, transformat
 - NumPy
 - pandas
 - Regex
+
+---
 
 ## 🗂️ Labs in This Section
 
@@ -30,6 +34,8 @@ Hands-on data wrangling with NumPy and pandas, focusing on cleaning, transformat
 - **Lab 18:** Clean and Analyze EMR Patient Data
 - **Lab 19:** Analyze Transportation Delay Dataset
 - **Lab 20:** Build a Custom Data Cleaning Pipeline
+
+---
 
 ## 📁 Section Structure
 
@@ -47,6 +53,16 @@ Hands-on data wrangling with NumPy and pandas, focusing on cleaning, transformat
 └── lab19-analyze-transportation-delay-dataset/
 └── lab20-build-a-custom-data-cleaning-pipeline/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_pandas-numpy-and-data-handling-ai-learning-activity-7452997280946688000-t_5W?)
+
+---
 
 ## ✅ Section Outcome
 
