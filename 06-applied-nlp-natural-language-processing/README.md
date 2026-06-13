@@ -10,6 +10,8 @@ Applied NLP labs that move from preprocessing and vectorization to sentiment ana
 - NER for security-related text
 - Topic modeling and document classification
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -19,6 +21,8 @@ Applied NLP labs that move from preprocessing and vectorization to sentiment ana
 - spaCy
 - TF-IDF
 
+---
+
 ## 🗂️ Labs in This Section
 
 - **Lab 41:** Text Cleaning and Preprocessing with NLTK
@@ -26,6 +30,8 @@ Applied NLP labs that move from preprocessing and vectorization to sentiment ana
 - **Lab 43:** Sentiment Analysis on EdTech Feedback
 - **Lab 44:** Named Entity Recognition for Cybersecurity Logs
 - **Lab 45:** Topic Modeling and Document Classification
+
+---
 
 ## 📁 Section Structure
 
@@ -38,6 +44,17 @@ Applied NLP labs that move from preprocessing and vectorization to sentiment ana
 └── lab44-named-entity-recognition-for-cybersecurity-logs/
 └── lab45-topic-modeling-and-document-classification/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_natural-language-processing-ai-learning-portfolio-activity-7456621074911444992-vjWk?)
+
+---
+
 
 ## ✅ Section Outcome
 
