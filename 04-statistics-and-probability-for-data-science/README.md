@@ -10,6 +10,8 @@ Foundational statistics labs focused on descriptive analysis, anomaly detection,
 - A/B testing and hypothesis testing
 - Statistical significance interpretation
 
+---
+
 ## 🧰 Common Tools
 
 - Python
@@ -19,6 +21,8 @@ Foundational statistics labs focused on descriptive analysis, anomaly detection,
 - SciPy
 - statsmodels
 
+---
+
 ## 🗂️ Labs in This Section
 
 - **Lab 31:** Descriptive Statistics with Pandas
@@ -26,6 +30,8 @@ Foundational statistics labs focused on descriptive analysis, anomaly detection,
 - **Lab 33:** Fraud Probability Analysis with Logistic Scoring
 - **Lab 34:** A_B Testing Basics for eCommerce
 - **Lab 35:** Statistical Significance in A_B Testing
+
+---
 
 ## 📁 Section Structure
 
@@ -38,6 +44,17 @@ Foundational statistics labs focused on descriptive analysis, anomaly detection,
 └── lab34-a-b-testing-basics-for-ecommerce/
 └── lab35-statistical-significance-in-a-b-testing/
 ```
+
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_statistics-and-probability-ai-learning-portfolio-activity-7454084359596199937-EuZr?)
+
+---
+
 
 ## ✅ Section Outcome
 
